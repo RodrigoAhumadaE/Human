@@ -1,0 +1,15 @@
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\bin\Debug\net6.0\Human.exe
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\bin\Debug\net6.0\Human.deps.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\bin\Debug\net6.0\Human.runtimeconfig.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\bin\Debug\net6.0\Human.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\bin\Debug\net6.0\Human.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\obj\Debug\net6.0\Human.csproj.AssemblyReference.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\obj\Debug\net6.0\Human.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\obj\Debug\net6.0\Human.AssemblyInfoInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\obj\Debug\net6.0\Human.AssemblyInfo.cs
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\obj\Debug\net6.0\Human.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\obj\Debug\net6.0\Human.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\obj\Debug\net6.0\refint\Human.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\obj\Debug\net6.0\Human.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\obj\Debug\net6.0\Human.genruntimeconfig.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Human\obj\Debug\net6.0\ref\Human.dll
