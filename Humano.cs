@@ -8,8 +8,8 @@ class Humano{
   public int Vida { get; set; }
   /* Agregue un método constructor que tome una cadena para inicializar Nombre, y que inicializará Fuerza, Inteligencia,
   y Destreza a un valor predeterminado de 3, y salud a un valor predeterminado de 100 */
-  public Humano(){
-    Nombre = "";
+  public Humano(string nombre){
+    Nombre = nombre;
     Fuerza = 3;
     Inteligencia = 3;
     Destreza = 3;
@@ -29,10 +29,9 @@ class Humano{
   /* Ahora agregue un nuevo método llamado Ataque, que cuando se invoca, debería reducir la salud de un objeto Humano que se pasa como parámetro.
   El daño realizado debe ser 3 * fuerza (3 puntos de daño al atacado, por cada 1 punto de fuerza del atacante). Este método debería devolver el
   estado restante del objeto de destino. */
-  public Humano Ataque(Humano humanoAtacado){
+  public int Ataque(Humano humanoAtacado){
     int daño = 3 * Fuerza;
     humanoAtacado.Vida -= daño;
-    return humanoAtacado; 
+    return humanoAtacado.Vida; 
   }
-
 }
